@@ -3,4 +3,4 @@ Nuovo soggettario (NS), edited by the National Central Library of Florence, is t
 It has been developed in compliance with the IFLA recommendations, and other international standards in the field of subject indexing. 
 
 The thesaurus comprises nowadays approximately 66.650 terms and it is updated on a regular basis. 
-All metadata can be used, in accordance with Creative Commons Attribution 2.5 licence. 
+All metadata can be used, in accordance with Creative Commons Attribution 3.0 licence. 
